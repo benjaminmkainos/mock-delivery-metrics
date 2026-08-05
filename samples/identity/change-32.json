@@ -1,8 +1,8 @@
 {
-  "sha": "c521df05b47fd9cf50c3a691a92d5079e3ff334d",
+  "sha": "9323054621add0ea4b603a03e89b22d52159c512",
   "pr_id": 32,
   "service": "identity",
   "author": "casey",
-  "committed_at": "2026-08-05T02:59:00Z",
-  "message": "feat(identity): synthetic change 32.1"
+  "committed_at": "2026-08-05T04:39:00Z",
+  "message": "feat(identity): synthetic change 32.2"
 }
