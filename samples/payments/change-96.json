@@ -1,8 +1,8 @@
 {
-  "sha": "c14486c1cd4f203763e51319a0093427c16151bc",
+  "sha": "dc65ab26235e7faefaec837a1a5bef1beeb853ba",
   "pr_id": 96,
   "service": "payments",
   "author": "blair",
-  "committed_at": "2026-09-10T05:11:00Z",
-  "message": "feat(payments): synthetic change 96.2"
+  "committed_at": "2026-09-10T05:31:00Z",
+  "message": "feat(payments): synthetic change 96.3"
 }
