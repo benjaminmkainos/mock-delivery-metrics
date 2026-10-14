@@ -1,0 +1,18 @@
+{
+  "counts": {
+    "commits": 568,
+    "pull_requests": 160,
+    "reviews": 160,
+    "builds": 184,
+    "deployments": 160,
+    "incidents": 18
+  },
+  "deployments_per_calendar_day": 1.7777777777777777,
+  "median_commit_to_production_hours": 29.8,
+  "change_failure_rate": 0.1125,
+  "mean_recovery_minutes": 149.16666666666666,
+  "median_recovery_minutes": 133.0,
+  "build_success_rate": 0.8695652173913043,
+  "mean_build_duration_seconds": 390.2173913043478,
+  "median_pr_cycle_hours": 23.0
+}

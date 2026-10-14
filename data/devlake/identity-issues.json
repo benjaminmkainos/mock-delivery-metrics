@@ -1,0 +1,67 @@
+[
+  {
+    "issueKey": "mock-42-2026-07-16-incident-3",
+    "title": "Production regression after change 11",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-07-23T15:27:00Z",
+    "updatedDate": "2026-07-23T18:19:00Z",
+    "resolutionDate": "2026-07-23T18:19:00Z",
+    "severity": "sev1",
+    "component": "identity",
+    "description": "Synthetic incident linked to deployment 11"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-8",
+    "title": "Production regression after change 37",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-08-10T16:06:00Z",
+    "updatedDate": "2026-08-10T19:36:00Z",
+    "resolutionDate": "2026-08-10T19:36:00Z",
+    "severity": "sev2",
+    "component": "identity",
+    "description": "Synthetic incident linked to deployment 37"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-9",
+    "title": "Production regression after change 42",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-08-14T16:00:00Z",
+    "updatedDate": "2026-08-14T20:49:00Z",
+    "resolutionDate": "2026-08-14T20:49:00Z",
+    "severity": "sev1",
+    "component": "identity",
+    "description": "Synthetic incident linked to deployment 42"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-14",
+    "title": "Production regression after change 92",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-09-09T15:48:00Z",
+    "updatedDate": "2026-09-09T17:28:00Z",
+    "resolutionDate": "2026-09-09T17:28:00Z",
+    "severity": "sev2",
+    "component": "identity",
+    "description": "Synthetic incident linked to deployment 92"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-16",
+    "title": "Production regression after change 95",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-09-10T15:40:00Z",
+    "updatedDate": "2026-09-10T16:58:00Z",
+    "resolutionDate": "2026-09-10T16:58:00Z",
+    "severity": "sev1",
+    "component": "identity",
+    "description": "Synthetic incident linked to deployment 95"
+  }
+]

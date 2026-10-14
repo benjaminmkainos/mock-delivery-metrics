@@ -1,0 +1,93 @@
+[
+  {
+    "issueKey": "mock-42-2026-07-16-incident-5",
+    "title": "Production regression after change 17",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-07-28T15:39:00Z",
+    "updatedDate": "2026-07-28T20:58:00Z",
+    "resolutionDate": "2026-07-28T20:58:00Z",
+    "severity": "sev1",
+    "component": "orders",
+    "description": "Synthetic incident linked to deployment 17"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-7",
+    "title": "Production regression after change 26",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-08-04T15:41:00Z",
+    "updatedDate": "2026-08-04T18:17:00Z",
+    "resolutionDate": "2026-08-04T18:17:00Z",
+    "severity": "sev2",
+    "component": "orders",
+    "description": "Synthetic incident linked to deployment 26"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-11",
+    "title": "Production regression after change 54",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-08-21T16:05:00Z",
+    "updatedDate": "2026-08-21T17:11:00Z",
+    "resolutionDate": "2026-08-21T17:11:00Z",
+    "severity": "sev1",
+    "component": "orders",
+    "description": "Synthetic incident linked to deployment 54"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-12",
+    "title": "Production regression after change 77",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-09-02T15:26:00Z",
+    "updatedDate": "2026-09-02T17:55:00Z",
+    "resolutionDate": "2026-09-02T17:55:00Z",
+    "severity": "sev1",
+    "component": "orders",
+    "description": "Synthetic incident linked to deployment 77"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-13",
+    "title": "Production regression after change 91",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-09-09T15:43:00Z",
+    "updatedDate": "2026-09-09T17:02:00Z",
+    "resolutionDate": "2026-09-09T17:02:00Z",
+    "severity": "sev2",
+    "component": "orders",
+    "description": "Synthetic incident linked to deployment 91"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-15",
+    "title": "Production regression after change 94",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-09-10T16:03:00Z",
+    "updatedDate": "2026-09-10T17:41:00Z",
+    "resolutionDate": "2026-09-10T17:41:00Z",
+    "severity": "sev1",
+    "component": "orders",
+    "description": "Synthetic incident linked to deployment 94"
+  },
+  {
+    "issueKey": "mock-42-2026-07-16-incident-18",
+    "title": "Production regression after change 159",
+    "type": "INCIDENT",
+    "status": "DONE",
+    "originalStatus": "closed",
+    "createdDate": "2026-10-13T15:47:00Z",
+    "updatedDate": "2026-10-13T16:57:00Z",
+    "resolutionDate": "2026-10-13T16:57:00Z",
+    "severity": "sev1",
+    "component": "orders",
+    "description": "Synthetic incident linked to deployment 159"
+  }
+]

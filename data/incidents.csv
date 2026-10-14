@@ -1,0 +1,19 @@
+id,deployment_id,service,title,detected_at,resolved_at,recovery_minutes,severity,state
+1,1,payments,Production regression after change 1,2026-07-16T15:19:00Z,2026-07-16T17:05:00Z,106.0,sev1,closed
+2,9,payments,Production regression after change 9,2026-07-22T15:19:00Z,2026-07-22T20:25:00Z,306.0,sev1,closed
+3,11,identity,Production regression after change 11,2026-07-23T15:27:00Z,2026-07-23T18:19:00Z,172.0,sev1,closed
+4,12,payments,Production regression after change 12,2026-07-24T15:32:00Z,2026-07-24T17:37:00Z,125.0,sev1,closed
+5,17,orders,Production regression after change 17,2026-07-28T15:39:00Z,2026-07-28T20:58:00Z,319.0,sev1,closed
+6,23,payments,Production regression after change 23,2026-08-03T15:47:00Z,2026-08-03T18:08:00Z,141.0,sev1,closed
+7,26,orders,Production regression after change 26,2026-08-04T15:41:00Z,2026-08-04T18:17:00Z,156.0,sev2,closed
+8,37,identity,Production regression after change 37,2026-08-10T16:06:00Z,2026-08-10T19:36:00Z,210.0,sev2,closed
+9,42,identity,Production regression after change 42,2026-08-14T16:00:00Z,2026-08-14T20:49:00Z,289.0,sev1,closed
+10,50,payments,Production regression after change 50,2026-08-20T16:13:00Z,2026-08-20T17:08:00Z,55.0,sev2,closed
+11,54,orders,Production regression after change 54,2026-08-21T16:05:00Z,2026-08-21T17:11:00Z,66.0,sev1,closed
+12,77,orders,Production regression after change 77,2026-09-02T15:26:00Z,2026-09-02T17:55:00Z,149.0,sev1,closed
+13,91,orders,Production regression after change 91,2026-09-09T15:43:00Z,2026-09-09T17:02:00Z,79.0,sev2,closed
+14,92,identity,Production regression after change 92,2026-09-09T15:48:00Z,2026-09-09T17:28:00Z,100.0,sev2,closed
+15,94,orders,Production regression after change 94,2026-09-10T16:03:00Z,2026-09-10T17:41:00Z,98.0,sev1,closed
+16,95,identity,Production regression after change 95,2026-09-10T15:40:00Z,2026-09-10T16:58:00Z,78.0,sev1,closed
+17,96,payments,Production regression after change 96,2026-09-11T15:43:00Z,2026-09-11T18:29:00Z,166.0,sev2,closed
+18,159,orders,Production regression after change 159,2026-10-13T15:47:00Z,2026-10-13T16:57:00Z,70.0,sev1,closed

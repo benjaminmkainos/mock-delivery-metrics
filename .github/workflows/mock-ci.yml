@@ -1,0 +1,31 @@
+name: Mock CI
+
+on:
+  workflow_dispatch:
+    inputs:
+      scenario:
+        description: Synthetic scenario ID
+        required: true
+        type: string
+      simulate_failure:
+        description: Produce an intentional build failure
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run dataset tests
+        run: python -m unittest discover -s tests -v
+      - name: Simulate failed CI
+        if: ${{ inputs.simulate_failure }}
+        run: exit 1

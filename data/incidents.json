@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "deployment_id": 1,
+    "service": "payments",
+    "title": "Production regression after change 1",
+    "detected_at": "2026-07-16T15:19:00Z",
+    "resolved_at": "2026-07-16T17:05:00Z",
+    "recovery_minutes": 106.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 2,
+    "deployment_id": 9,
+    "service": "payments",
+    "title": "Production regression after change 9",
+    "detected_at": "2026-07-22T15:19:00Z",
+    "resolved_at": "2026-07-22T20:25:00Z",
+    "recovery_minutes": 306.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 3,
+    "deployment_id": 11,
+    "service": "identity",
+    "title": "Production regression after change 11",
+    "detected_at": "2026-07-23T15:27:00Z",
+    "resolved_at": "2026-07-23T18:19:00Z",
+    "recovery_minutes": 172.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 4,
+    "deployment_id": 12,
+    "service": "payments",
+    "title": "Production regression after change 12",
+    "detected_at": "2026-07-24T15:32:00Z",
+    "resolved_at": "2026-07-24T17:37:00Z",
+    "recovery_minutes": 125.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 5,
+    "deployment_id": 17,
+    "service": "orders",
+    "title": "Production regression after change 17",
+    "detected_at": "2026-07-28T15:39:00Z",
+    "resolved_at": "2026-07-28T20:58:00Z",
+    "recovery_minutes": 319.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 6,
+    "deployment_id": 23,
+    "service": "payments",
+    "title": "Production regression after change 23",
+    "detected_at": "2026-08-03T15:47:00Z",
+    "resolved_at": "2026-08-03T18:08:00Z",
+    "recovery_minutes": 141.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 7,
+    "deployment_id": 26,
+    "service": "orders",
+    "title": "Production regression after change 26",
+    "detected_at": "2026-08-04T15:41:00Z",
+    "resolved_at": "2026-08-04T18:17:00Z",
+    "recovery_minutes": 156.0,
+    "severity": "sev2",
+    "state": "closed"
+  },
+  {
+    "id": 8,
+    "deployment_id": 37,
+    "service": "identity",
+    "title": "Production regression after change 37",
+    "detected_at": "2026-08-10T16:06:00Z",
+    "resolved_at": "2026-08-10T19:36:00Z",
+    "recovery_minutes": 210.0,
+    "severity": "sev2",
+    "state": "closed"
+  },
+  {
+    "id": 9,
+    "deployment_id": 42,
+    "service": "identity",
+    "title": "Production regression after change 42",
+    "detected_at": "2026-08-14T16:00:00Z",
+    "resolved_at": "2026-08-14T20:49:00Z",
+    "recovery_minutes": 289.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 10,
+    "deployment_id": 50,
+    "service": "payments",
+    "title": "Production regression after change 50",
+    "detected_at": "2026-08-20T16:13:00Z",
+    "resolved_at": "2026-08-20T17:08:00Z",
+    "recovery_minutes": 55.0,
+    "severity": "sev2",
+    "state": "closed"
+  },
+  {
+    "id": 11,
+    "deployment_id": 54,
+    "service": "orders",
+    "title": "Production regression after change 54",
+    "detected_at": "2026-08-21T16:05:00Z",
+    "resolved_at": "2026-08-21T17:11:00Z",
+    "recovery_minutes": 66.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 12,
+    "deployment_id": 77,
+    "service": "orders",
+    "title": "Production regression after change 77",
+    "detected_at": "2026-09-02T15:26:00Z",
+    "resolved_at": "2026-09-02T17:55:00Z",
+    "recovery_minutes": 149.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 13,
+    "deployment_id": 91,
+    "service": "orders",
+    "title": "Production regression after change 91",
+    "detected_at": "2026-09-09T15:43:00Z",
+    "resolved_at": "2026-09-09T17:02:00Z",
+    "recovery_minutes": 79.0,
+    "severity": "sev2",
+    "state": "closed"
+  },
+  {
+    "id": 14,
+    "deployment_id": 92,
+    "service": "identity",
+    "title": "Production regression after change 92",
+    "detected_at": "2026-09-09T15:48:00Z",
+    "resolved_at": "2026-09-09T17:28:00Z",
+    "recovery_minutes": 100.0,
+    "severity": "sev2",
+    "state": "closed"
+  },
+  {
+    "id": 15,
+    "deployment_id": 94,
+    "service": "orders",
+    "title": "Production regression after change 94",
+    "detected_at": "2026-09-10T16:03:00Z",
+    "resolved_at": "2026-09-10T17:41:00Z",
+    "recovery_minutes": 98.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 16,
+    "deployment_id": 95,
+    "service": "identity",
+    "title": "Production regression after change 95",
+    "detected_at": "2026-09-10T15:40:00Z",
+    "resolved_at": "2026-09-10T16:58:00Z",
+    "recovery_minutes": 78.0,
+    "severity": "sev1",
+    "state": "closed"
+  },
+  {
+    "id": 17,
+    "deployment_id": 96,
+    "service": "payments",
+    "title": "Production regression after change 96",
+    "detected_at": "2026-09-11T15:43:00Z",
+    "resolved_at": "2026-09-11T18:29:00Z",
+    "recovery_minutes": 166.0,
+    "severity": "sev2",
+    "state": "closed"
+  },
+  {
+    "id": 18,
+    "deployment_id": 159,
+    "service": "orders",
+    "title": "Production regression after change 159",
+    "detected_at": "2026-10-13T15:47:00Z",
+    "resolved_at": "2026-10-13T16:57:00Z",
+    "recovery_minutes": 70.0,
+    "severity": "sev1",
+    "state": "closed"
+  }
+]
